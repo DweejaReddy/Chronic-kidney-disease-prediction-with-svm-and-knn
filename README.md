@@ -1,5 +1,5 @@
 # Chronic kidney Disease prediction using KNN and SVM
-1. First loading of the dataset using pandas.
+1. First loading of the dataset (kidney_disease.csv) using pandas.
 2. Dropping unwanted columns in the dataset.
 3. Renaming the columns to make it more user-friendly.
  ['age', 'blood_pressure', 'specific_gravity', 'albumin', 'sugar', 'red_blood_cells', 'pus_cell’  'pus_cell_clumps', 'bacteria', 'blood_glucose_random', 'blood_urea', 'serum_creatinine', 'sodium', 'potassium', 'haemoglobin', 'packed_cell_volume', 'white_blood_cell_count', 'red_blood_cell_count',
